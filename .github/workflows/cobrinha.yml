@@ -1,14 +1,21 @@
-name: Generate Datas
+name: code coverage
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main, staging
 
 jobs:
-  build:
-    name: Jobs to update datas
+  coverage:
+
     runs-on: ubuntu-latest
+
+    # steps omitted for brevity
+
+
     steps:
       # Snake Animation
       - uses: Platane/snk@master
