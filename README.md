@@ -2,11 +2,11 @@
 
 ##
 
-- 🔭 Currently working as back-end developer
+- 🔭 I am currently a student in the field of software development
 - 🌱 I’m currently learning Laravel
 - 📫 How to reach me: hariel06@outlook.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: I like Front-End, reading and playing football.
+- ⚡ Fun fact: Reading and playing football.
 
 
 <div>
